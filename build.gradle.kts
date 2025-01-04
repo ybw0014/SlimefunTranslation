@@ -25,7 +25,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly("org.spigotmc:spigot-api:1.20.4-R0.1-SNAPSHOT")
+    compileOnly("org.spigotmc:spigot-api:1.20.4-experimental-SNAPSHOT")
     compileOnly("com.github.Slimefun:Slimefun4:RC-37")
     compileOnly("me.clip:placeholderapi:2.11.6")
     compileOnly("com.comphenix.protocol:ProtocolLib:5.1.0")
