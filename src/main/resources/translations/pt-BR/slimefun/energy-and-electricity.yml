@@ -181,21 +181,21 @@ translations:
       - "%sftrlore_Speed_8%"
       - "%sftrlore_PowerPerSecond_40%"
   ELECTRIFIED_CRUCIBLE:
-    name: "&cCadinho Electrificado"
+    name: "&cCadinho Eletrificado"
     lore:
       - ""
       - "%sftrlore_Machine_EndGame_Machine%"
       - "%sftrlore_Speed_1%"
       - "%sftrlore_PowerPerSecond_48%"
   ELECTRIFIED_CRUCIBLE_2:
-    name: "&cCadinho Electrificado &7- &eII"
+    name: "&cCadinho Eletrificado &7- &eII"
     lore:
       - ""
       - "%sftrlore_Machine_EndGame_Machine%"
       - "%sftrlore_Speed_2%"
       - "%sftrlore_PowerPerSecond_80%"
   ELECTRIFIED_CRUCIBLE_3:
-    name: "&cCadinho Electrificado &7- &eIII"
+    name: "&cCadinho Eletrificado &7- &eIII"
     lore:
       - ""
       - "%sftrlore_Machine_EndGame_Machine%"
@@ -343,7 +343,7 @@ translations:
       - "&8\u21E8 &7Fator de Reparo: 10%"
       - "%sftrlore_PowerPerSecond_24%"
   AUTO_ANVIL_2:
-    name: "&7Alto-Forno Automático Mk.II"
+    name: "&7Bigorna Automática Mk.II"
     lore:
       - ""
       - "%sftrlore_Machine_EndGame_Machine%"

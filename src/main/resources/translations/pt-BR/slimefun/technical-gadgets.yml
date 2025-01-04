@@ -48,7 +48,6 @@ translations:
   ARMORED_JETPACK:
     name: "&9Mochila a Jato Blindada"
     lore-overrides:
-      1: ""
       2: "%sftrlore_Material_Steel%"
       4: "&8\u21E8 &7Impulso: &c0.5"
       6: "%sftrlore_CrouchToUse%"

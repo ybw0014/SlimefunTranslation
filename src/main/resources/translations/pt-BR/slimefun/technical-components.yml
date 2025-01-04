@@ -61,7 +61,7 @@ translations:
     lore:
       - ""
       - "&fSuporta Explosões"
-      - "&fResiste a ataques do chefe Wither"
+      - "&fResiste a ataques do Wither Boss"
   REACTOR_COLLANT_CELL:
     name: "&bCélula de Resfriamento do Reator"
   NETHER_ICE_COOLANT_CELL:
