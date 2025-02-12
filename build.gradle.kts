@@ -3,8 +3,8 @@ import net.minecrell.pluginyml.bukkit.BukkitPluginDescription
 plugins {
     id("java")
     id("maven-publish")
-    id("com.gradleup.shadow") version "8.3.3"
-    id("io.freefair.lombok") version "8.10.2"
+    id("com.gradleup.shadow") version "8.3.6"
+    id("io.freefair.lombok") version "8.12.1"
     id("net.minecrell.plugin-yml.bukkit") version "0.6.0"
     id("xyz.jpenilla.run-paper") version "2.3.1"
 }
@@ -28,13 +28,13 @@ dependencies {
     compileOnly("org.spigotmc:spigot-api:1.20.4-R0.1-SNAPSHOT")
     compileOnly("com.github.Slimefun:Slimefun4:RC-37")
     compileOnly("me.clip:placeholderapi:2.11.6")
-    compileOnly("com.comphenix.protocol:ProtocolLib:5.1.0")
-    implementation("net.guizhanss:guizhanlib-all:2.1.0")
+    compileOnly("com.comphenix.protocol:ProtocolLib:5.3.0")
+    implementation("net.guizhanss:guizhanlib-all:2.2.0")
     implementation("org.bstats:bstats-bukkit:3.1.0")
 }
 
 java {
-    sourceCompatibility = JavaVersion.VERSION_16
+    sourceCompatibility = JavaVersion.VERSION_17
 }
 
 tasks.compileJava {
