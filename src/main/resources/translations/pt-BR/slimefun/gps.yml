@@ -31,7 +31,7 @@ translations:
     name: "&bPainel de Controle do GPS"
     lore:
       - ""
-      - "&fPermite que você rastreie seus Satélites"
+      - "&fPermite que você rastreie seus Transmissores"
       - "&fe gerencie seus Pontos de Passagem"
   GPS_MARKER_TOOL:
     name: "&bFerramenta de Marcação do GPS"
@@ -63,7 +63,7 @@ translations:
     name: "&4Bomba de Petróleo"
     lore:
       - ""
-      - "&7Bombea Petróleo e o coloca em Baldes"
+      - "&7Bombeia Petróleo e o coloca em Baldes"
       - ""
       - "&c&l! &cCertifique-se de Escanear Geograficamente o Pedaço primeiro"
   GEO_MINER:
@@ -121,4 +121,4 @@ translations:
       - "&fColoque uma Placa de Elevador em cada andar"
       - "&fe você será capaz de se teletransportar entre eles."
       - ""
-      - "&eClique com o botão direito nesse Bloco &7para nomeá-lo"
+      - "&eBotão Direito nesse Bloco &7para nomeá-lo"
